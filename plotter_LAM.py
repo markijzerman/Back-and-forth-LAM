@@ -3,9 +3,6 @@
 # BACK AND FORTH FOR LAM BUDAPEST
 # MARK IJZERMAN, 2024
 
-# hours
-#7
-
 # do this https://mac.install.guide/python/command-not-found-python if python install doesnt work
 
 import pathlib
